@@ -2,10 +2,6 @@ import React, {Component} from 'react';
 // import './Text.css';
 
 class Buttons extends Component{
-    constructor(props){
-        super(props)
-    }
-
     render(){
         console.log(this.props.url)
         return(
