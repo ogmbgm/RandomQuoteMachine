@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/QuoteBox.css","webpack://src/Text.css"],"names":[],"mappings":"AAAA,WACC,WAAY,CACZ,cACD,CCHA,MACC,gBACD","file":"main.67e61d79.chunk.css","sourcesContent":["#quote-box {\r\n\twidth: 600px;\r\n\tmargin-top: 25%;\r\n}\r\n","#text {\r\n\tfont-size: 1.75em;\r\n}\r\n"]}
